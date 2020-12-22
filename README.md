@@ -1,2 +1,2 @@
 # random-password-generator-app
-Simple and nice mini project
+A nice and simple mini project | no algorithms
